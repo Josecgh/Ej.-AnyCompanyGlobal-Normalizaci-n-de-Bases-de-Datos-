@@ -12,3 +12,7 @@ Importo la sentencia SQL del archivo "any_company_global_create_table_script.sql
 ## Paso 3:
 Importo la sentencia SQL del archivo "any_company_global_insert_data_script.sql" o copio la sentencia de ese mismo archivo y la pego en el editor SQL para insertar los datos en la tabla.
 <img width="1279" height="451" alt="image" src="https://github.com/user-attachments/assets/58eb4818-81f1-4009-984d-452098389c29" />
+
+## Paso 4:
+Realizo la normalización de la tabla "sales_not_normalized":
+<img width="561" height="394" alt="image" src="https://github.com/user-attachments/assets/120ef388-9425-4f12-b280-1e94b6b5d4fa" />
