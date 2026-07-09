@@ -9,3 +9,6 @@ Primero creo la Database "company".
 Importo la sentencia SQL del archivo "any_company_global_create_table_script.sql" o copio la sentencia de ese mismo archivo y la pego en el editor SQL para crear la tabla "sales_not_normalized".
 <img width="632" height="494" alt="image" src="https://github.com/user-attachments/assets/b371e2b3-941b-4a4b-bef6-96aedef816b8" />
 
+## Paso 3:
+Importo la sentencia SQL del archivo "any_company_global_insert_data_script.sql" o copio la sentencia de ese mismo archivo y la pego en el editor SQL para insertar los datos en la tabla.
+<img width="1279" height="451" alt="image" src="https://github.com/user-attachments/assets/58eb4818-81f1-4009-984d-452098389c29" />
