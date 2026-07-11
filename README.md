@@ -45,3 +45,10 @@ Realizo la normalización de la tabla "sales_not_normalized":
 
 ## Paso 5:
 Para crear las tablas normalizadas, hago una sentencia SQL usando una nueva database (db_any_company_global_normalized):
+<img width="618" height="568" alt="image" src="https://github.com/user-attachments/assets/40f2ed06-7c09-4e3f-b495-c98aafc582dd" />
+<img width="440" height="349" alt="image" src="https://github.com/user-attachments/assets/2e745d8a-9940-4d0a-963a-006a7aaefb61" />
+Inserto los datos de las tablas normalizadas con SQL.
+<img width="375" height="62" alt="image" src="https://github.com/user-attachments/assets/ab84e0b8-85b1-45f8-a10c-a90389553b59" />
+<img width="401" height="77" alt="image" src="https://github.com/user-attachments/assets/0698ae0e-300d-4730-a4be-f1fa9c1d0375" />
+
+
