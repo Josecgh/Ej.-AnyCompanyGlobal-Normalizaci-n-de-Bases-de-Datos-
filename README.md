@@ -1,5 +1,29 @@
 # Ej. - Any Company Global - Normalización de Bases de Datos
 
+## Instrucciones:
+
+Descarga el pdf donde encontrarás una tabla de datos sin normalizar
+Normaliza la tabla (se recomienda el uso de Google Sheets)
+Realiza un diagrama ER de Chen (ver recursos)
+Realiza un diagrama de tipo patas de gallo (ver recursos)
+Crea un repositorio con el Readme
+Inserta en el Readme la descripción del ejercicio así como los diagramas creados (puedes utilizar Mermaid)
+
+## Requisito:
+
+Normalizar la tabla proporcionada (ver pdf)
+Con diagrams.net realizar un diagrama de entidad-relación (de Chen)
+Con diagrams.net realizar un diagrama UML (Database Schema - Patas de gallo) de la base de datos con sus tablas, campos y relaciones
+Entregables:
+
+Enlace del repositorio con el Readme
+
+## Recursos:
+diagrams.net
+Normalización ejemplo: Freecodecamp.org
+Como crear un diagrama de base de datos
+Mermaid - Entity Relationship Diagrams
+
 ## Paso 1:
 Primero creo la Database "company".
 <img width="229" height="148" alt="image" src="https://github.com/user-attachments/assets/34bae552-38f2-47f2-9f63-cb41ff5834d1" />
