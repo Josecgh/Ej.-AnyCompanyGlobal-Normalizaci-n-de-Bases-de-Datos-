@@ -20,7 +20,9 @@ Enlace del repositorio con el Readme
 
 ## Recursos:
 diagrams.net
+
 Normalización ejemplo: Freecodecamp.org
+
 Como crear un diagrama de base de datos
 Mermaid - Entity Relationship Diagrams
 
