@@ -48,6 +48,7 @@ Importo la sentencia SQL del archivo "any_company_global_insert_data_script.sql"
 Realizo la normalización de la tabla "sales_not_normalized":
 
 <img width="561" height="394" alt="image" src="https://github.com/user-attachments/assets/120ef388-9425-4f12-b280-1e94b6b5d4fa" />
+
 Y el diagrama ER de Chen:
 
 <img width="438" height="297" alt="image" src="https://github.com/user-attachments/assets/7c704c73-9544-46b0-bf9d-0530ef16098d" />
