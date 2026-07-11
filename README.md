@@ -58,4 +58,6 @@ Inserto los datos de las tablas normalizadas con SQL:
 <img width="420" height="130" alt="image" src="https://github.com/user-attachments/assets/7a5630c2-2472-4b3a-b182-f0b0a525b742" />
 <img width="423" height="126" alt="image" src="https://github.com/user-attachments/assets/1847a0d4-d74a-421e-87a4-dd26af5141b8" />
 
-
+## Paso 6:
+Realizo la consulta para saber que pais corresponde id_sales 3.
+<img width="482" height="270" alt="image" src="https://github.com/user-attachments/assets/5abf2e22-c4f8-455e-a7ca-c39cd72324d7" />
