@@ -54,5 +54,8 @@ Inserto los datos de las tablas normalizadas con SQL:
 <img width="401" height="77" alt="image" src="https://github.com/user-attachments/assets/0698ae0e-300d-4730-a4be-f1fa9c1d0375" />
 <img width="427" height="129" alt="image" src="https://github.com/user-attachments/assets/c7fa6392-ecaf-4e29-ba05-393971ceedfe" />
 <img width="425" height="142" alt="image" src="https://github.com/user-attachments/assets/a23eeb2c-cf7d-42f4-a1e0-719c407d15ba" />
+<img width="422" height="130" alt="image" src="https://github.com/user-attachments/assets/32aa6b4a-3252-4fcb-8cff-2bcc03772cf2" />
+<img width="420" height="130" alt="image" src="https://github.com/user-attachments/assets/7a5630c2-2472-4b3a-b182-f0b0a525b742" />
+<img width="423" height="126" alt="image" src="https://github.com/user-attachments/assets/1847a0d4-d74a-421e-87a4-dd26af5141b8" />
 
 
