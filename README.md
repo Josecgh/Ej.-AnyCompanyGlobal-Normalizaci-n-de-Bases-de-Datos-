@@ -36,15 +36,22 @@ Primero creo la Database "db_any_company_global".
 
 ## Paso 2:
 Importo la sentencia SQL del archivo "any_company_global_create_table_script.sql" o copio la sentencia de ese mismo archivo y la pego en el editor SQL para crear la tabla "sales_not_normalized".
+
 <img width="632" height="494" alt="image" src="https://github.com/user-attachments/assets/b371e2b3-941b-4a4b-bef6-96aedef816b8" />
 
 ## Paso 3:
 Importo la sentencia SQL del archivo "any_company_global_insert_data_script.sql" o copio la sentencia de ese mismo archivo y la pego en el editor SQL para insertar los datos en la tabla.
+
 <img width="1279" height="451" alt="image" src="https://github.com/user-attachments/assets/58eb4818-81f1-4009-984d-452098389c29" />
 
 ## Paso 4:
 Realizo la normalización de la tabla "sales_not_normalized":
+
 <img width="561" height="394" alt="image" src="https://github.com/user-attachments/assets/120ef388-9425-4f12-b280-1e94b6b5d4fa" />
+Y el diagrama ER de Chen:
+
+<img width="438" height="297" alt="image" src="https://github.com/user-attachments/assets/7c704c73-9544-46b0-bf9d-0530ef16098d" />
+
 
 ## Paso 5:
 Para crear las tablas normalizadas, hago una sentencia SQL usando una nueva database (db_any_company_global_normalized):
@@ -53,6 +60,7 @@ Para crear las tablas normalizadas, hago una sentencia SQL usando una nueva data
 <img width="440" height="349" alt="image" src="https://github.com/user-attachments/assets/2e745d8a-9940-4d0a-963a-006a7aaefb61" />
 
 Inserto los datos de las tablas normalizadas con SQL:
+
 <img width="375" height="62" alt="image" src="https://github.com/user-attachments/assets/ab84e0b8-85b1-45f8-a10c-a90389553b59" />
 <img width="401" height="77" alt="image" src="https://github.com/user-attachments/assets/0698ae0e-300d-4730-a4be-f1fa9c1d0375" />
 <img width="427" height="129" alt="image" src="https://github.com/user-attachments/assets/c7fa6392-ecaf-4e29-ba05-393971ceedfe" />
@@ -63,4 +71,5 @@ Inserto los datos de las tablas normalizadas con SQL:
 
 ## Paso 6:
 Realizo la consulta para saber que pais corresponde id_sales 3.
+
 <img width="482" height="270" alt="image" src="https://github.com/user-attachments/assets/5abf2e22-c4f8-455e-a7ca-c39cd72324d7" />
