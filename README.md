@@ -42,3 +42,6 @@ Importo la sentencia SQL del archivo "any_company_global_insert_data_script.sql"
 ## Paso 4:
 Realizo la normalización de la tabla "sales_not_normalized":
 <img width="561" height="394" alt="image" src="https://github.com/user-attachments/assets/120ef388-9425-4f12-b280-1e94b6b5d4fa" />
+
+## Paso 5:
+Para crear las tablas normalizadas, hago una sentencia SQL usando una nueva database (db_any_company_global_normalized):
