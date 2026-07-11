@@ -29,7 +29,7 @@ Mermaid - Entity Relationship Diagrams
 ![Separador Animado](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header)
 
 ## Paso 1:
-Primero creo la Database "company".
+Primero creo la Database "db_any_company_global".
 
 <img width="229" height="148" alt="image" src="https://github.com/user-attachments/assets/34bae552-38f2-47f2-9f63-cb41ff5834d1" />
 
