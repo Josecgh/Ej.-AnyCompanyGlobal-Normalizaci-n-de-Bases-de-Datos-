@@ -52,5 +52,6 @@ Para crear las tablas normalizadas, hago una sentencia SQL usando una nueva data
 Inserto los datos de las tablas normalizadas con SQL:
 <img width="375" height="62" alt="image" src="https://github.com/user-attachments/assets/ab84e0b8-85b1-45f8-a10c-a90389553b59" />
 <img width="401" height="77" alt="image" src="https://github.com/user-attachments/assets/0698ae0e-300d-4730-a4be-f1fa9c1d0375" />
+<img width="427" height="129" alt="image" src="https://github.com/user-attachments/assets/c7fa6392-ecaf-4e29-ba05-393971ceedfe" />
 
 
