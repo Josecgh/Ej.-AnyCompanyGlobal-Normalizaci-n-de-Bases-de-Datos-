@@ -30,6 +30,7 @@ Mermaid - Entity Relationship Diagrams
 
 ## Paso 1:
 Primero creo la Database "company".
+
 <img width="229" height="148" alt="image" src="https://github.com/user-attachments/assets/34bae552-38f2-47f2-9f63-cb41ff5834d1" />
 
 
